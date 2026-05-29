@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvrocess",
+        "uuid": 32747520,
+        "checksum": "swlgz"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
